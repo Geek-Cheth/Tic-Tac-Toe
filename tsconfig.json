@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "none",
+    "outFile": "game.js",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "game.ts"
+  ]
+}
